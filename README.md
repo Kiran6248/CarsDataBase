@@ -32,10 +32,11 @@
 ### Search page of the App
 ![search](https://user-images.githubusercontent.com/70952736/161056192-ebb0725a-2e86-4148-99dc-acbe0818a6f0.PNG)
 
-#### It has 2 ComboBoxes, one Textbox and one DataGrid View.
-#### The Datagrid is connected with database and loaded the contents with its load
-#### The search function runs by selecting fields in comboboxes and entering in Textbox.
-#### Close button closes the Search form and opens Car Data Form.
+### Features on the Search Page
+1.  It has 2 ComboBoxes, one Textbox and one DataGrid View.
+2.  The Datagrid is connected with database and loaded the contents with its load
+3.  The search function runs by selecting fields in comboboxes and entering in Textbox.
+4.  Close button closes the Search form and opens Car Data Form.
 
 ### The Database of the App
 ![data](https://user-images.githubusercontent.com/70952736/161056379-5e4fa071-a8df-4379-a554-9fad5a1c3b07.PNG)
