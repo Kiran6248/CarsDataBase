@@ -44,4 +44,8 @@
 #### The Database is created locally in Visual Studio and connected with the project by (localdb)\mssqllocaldb
 #### The name of the database is "Hire"
 
-
+### Project Barriers and solution
+1. First project barrier was to show £ symbol on the app, as after displaying this the Add and Update functions showed error. 
+    The SubString() method is used for the RentalPerDay argument to handle this.
+2. The search function was not working for enhine size, one error handler is added to handle that.
+3. The data display in the default datatable was not according to the project requirement, so DataTableCellAlignment is used to manage that.
